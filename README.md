@@ -84,9 +84,6 @@ from my_package import hello_world
 
 print(hello_world())
 ```
-```
-
----
 
 ## 2. Building the Package
 
